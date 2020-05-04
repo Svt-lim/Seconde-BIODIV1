@@ -41,6 +41,8 @@ Au sein de la foret humide, la biodiversité spécifique est forte (il y a beauc
 
 #### Question : A l'aide du doc 8, montrez que les scientifiques ont adaptés les méthodes d'inventaire au milieux de collectes des échantillons.
 
+![](https://github.com/Svt-lim/Seconde-BIODIV1/blob/master/doc8.jpg)
+
 <details>
   <summary>Correction</summary>
 Le travail d'inventaire est long et fastidieux. Il faut faire des campagnes fréquentes, car il existe de très nombreuses espèces. Il faut aussi garder à l'esprit que les espèces s'eteignent parfois avant d'être découvertes. // les échantillons marins sont prélevés en vrac à l'aide de filets. Il est donc nécessaire de les trier à postériori. D'ou l'emploi de tubes et de cuvettes à bord de Tara.

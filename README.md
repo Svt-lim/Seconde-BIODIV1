@@ -50,5 +50,5 @@ Le travail d'inventaire est long et fastidieux. Il faut faire des campagnes fré
 
 ### <u>Bilan:</u>
 
-![](https://github.com/Svt-lim/Seconde-BIODIV1/blob/master/doc8.jpg)
+![](https://github.com/Svt-lim/Seconde-BIODIV1/blob/master/Bilan%201.png)
 
